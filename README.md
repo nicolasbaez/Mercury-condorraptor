@@ -1,5 +1,5 @@
 # Mercury-condorraptor
-Shup up and dance
+Shut up and dance
 
 ![buh](https://github.com/nicolasbaez/Mercury-condorraptor/blob/main/xp036.gif)
 ```javascript
